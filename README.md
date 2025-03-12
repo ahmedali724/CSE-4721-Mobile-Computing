@@ -10,7 +10,7 @@ This repository contains assignments for the **Mobile Computing** course, develo
 
 ## 📌 Assignments Overview
 
-| #  | Assignment Code | Report | Video |
-|----|---------------|--------|-------|
-| 1  | [Assignment 1 Code](Assignment01/App.js) | [Report](Report/Assignment01.pdf) | [Video](Video/Assignment01.mp4) |
+| #  | Assignment Code | Report | Video | Expo Online Compiler |
+|----|---------------|--------|-------|----------------------|
+| 1  | [Assignment 01 Code](Assignment01/App.js) | [Report](Report/Assignment01.pdf) | [Video](Video/Assignment01.mp4) | [Expo Link](https://snack.expo.dev/@ahmedali724/to-do-list) |
 
